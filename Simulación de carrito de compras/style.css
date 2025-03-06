@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.products, .cart {
+  margin-bottom: 20px;
+}
+
+.product, .cart li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 14px;
+}
