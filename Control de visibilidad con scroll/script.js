@@ -13,6 +13,6 @@ function scrollFunction() {
 
 // Función para volver al principio de la página
 function topFunction() {
-    // Para Chrome, Firefox, IE y Opera
+    
     document.documentElement.scrollTop = 0;
 }
