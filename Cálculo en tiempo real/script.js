@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'kilometros-metros': 1000,
         'millas-kilometros': 1.60934,
         'kilometros-millas': 0.621371,
-        // ...otras conversiones...
+       
     };
 
     function convertir() {
